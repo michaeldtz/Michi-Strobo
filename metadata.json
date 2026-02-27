@@ -1,0 +1,5 @@
+{
+  "name": "MichiStrobe",
+  "description": "A modern, music-reactive stroboscope and visualizer for Michi's parties.",
+  "requestFramePermissions": ["microphone"]
+}

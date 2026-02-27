@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#000000"/>
+  <path d="M256 100 L150 300 L256 260 L362 300 Z" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite" />
+  </path>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#ffffff" stroke-width="20" stroke-dasharray="20 10">
+    <animateTransform attributeName="transform" type="rotate" from="0 256 256" to="360 256 256" dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>
